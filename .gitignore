@@ -89,3 +89,7 @@ target/
 
 # env
 .venv/
+
+#ignoreing output
+reports/figures/target_distribution.png
+
